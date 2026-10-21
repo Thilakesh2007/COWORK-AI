@@ -32,3 +32,4 @@ COWORK AI is an evolving project, built incrementally with an emphasis on useful
 ## 📌 Current Status
 
 Under active development. Features and capabilities will expand as the project progresses.
+<img width="788" height="591" alt="image" src="https://github.com/user-attachments/assets/bf33a21f-eb10-42b1-a411-2f05c5efd206" />
